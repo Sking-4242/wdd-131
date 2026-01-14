@@ -16,7 +16,7 @@ para.classList.add('background');
 
 let image = document.querySelector('img');
 
-image.setAttribute('src', '/week2/DOM/logo.png');
+image.setAttribute('src', 'https://github.com/Sking-4242/wdd-131/blob/3ab957f09fbb474b790d211abd6530c05c6d5612/week2/dom/logo.png');
 
 
 let selectElem = document.getElementById('webdevlist');
